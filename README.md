@@ -30,12 +30,12 @@ Hello! I'm Adrien, and I'm a student studying computer development at EPITECH in
 
 # 📊 GitHub Stats:
 <p align="center">
-    <br><img src="https://github-readme-stats.vercel.app/api?username=AdrienL06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"><br/>
-    <br><img src="https://streak-stats.demolab.com?user=AdrienL06&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&bg_color=0000000"><br/>
-    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienL06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"><br/>
+    <br><img src="https://github-readme-stats.vercel.app/api?username=lelouch178&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"><br/>
+    <br><img src="https://streak-stats.demolab.com?user=lelouch178&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&bg_color=0000000"><br/>
+    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouch178&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"><br/>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <br><img src="https://github-profile-trophy.vercel.app/?username=AdrienL06&theme=tokyonight&no-bg=true&no-frame=true"><br/>
+    <br><img src="https://github-profile-trophy.vercel.app/?username=lelouch178&theme=tokyonight&no-bg=true&no-frame=true"><br/>
 </p>
