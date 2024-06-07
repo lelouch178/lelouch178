@@ -41,4 +41,4 @@ Hello! I'm a student studying computer development.<br>Ever since my middle scho
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/lelouch178/lelouch178/assets/114527736/411392fb-c75e-4cb1-bbc8-0a29ff6b2421');background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 100vw; opacity: 0.2; background: url('https://github.com/lelouch178/lelouch178/assets/114527736/411392fb-c75e-4cb1-bbc8-0a29ff6b2421');background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
