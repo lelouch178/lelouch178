@@ -9,22 +9,18 @@ Hello! I'm a student studying computer development.<br>Ever since my middle scho
 
 # 💻 Tech Stack:
 <p align="center">
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg>
+</p>
+<p align="center">
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg>
     <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg>
-    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg>
+    <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg>
 </p>
 
 
